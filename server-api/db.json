@@ -1,0 +1,19 @@
+{
+    "contacts":[
+        {
+            "id":"71ec2b36-30c2-404f-b111-0fb3499ace57",
+            "name":"Mustafa Husain",
+            "email":"mustafa@gmail.com"
+        },
+        {
+            "id":"01295d88-ec9b-473e-9363-55b5f755c7d4",
+            "name":"Tahira Bishwas Anny",
+            "email":"tahira@gmail.com"
+        },
+        {
+            "id":"f8aace8d-4b53-4b8d-a84d-afbffb28883f",
+            "name":"Md. Siddique Bishwas",
+            "email":"md@gmail.com"
+        }
+    ]
+}
